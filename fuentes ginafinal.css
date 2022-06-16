@@ -1,0 +1,20 @@
+/*Es la fuente que se usa en la mayoría de la tabla o sea, en los títulos (Imágen del vengador, historia... y en la historia de cada personaje)*/
+table
+{
+    font-family: Lucida;
+    font-size:large;
+}
+
+
+/*
+@font-face
+{
+    font-family: ;
+    src: url(Letra Vengadores/AVENGEANCE HEROIC AVENGER AT.ttf);
+}
+
+td 
+{
+    font-family: AVENGEANCE HEROIC AVENGER AT;
+}
+*/
